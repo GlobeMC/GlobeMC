@@ -1,2 +1,2 @@
 # GlobeMC
-The official GlobeMC wiki.
+Click here to visit the GlobeMC wiki!
